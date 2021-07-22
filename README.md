@@ -1,4 +1,4 @@
-<img src="https://github.com/M-antunes/M-antunes/blob/main/banner.gif" width="400">
+<img src="https://github.com/M-antunes/M-antunes/blob/main/image.jpeg" height="200">
 
 ## Hi there 👋, I'm Marcelo
 
