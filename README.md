@@ -10,10 +10,9 @@
 * 🔵 C#
 * 📦 SQL Server
 * 💻 HTML, CSS, JS
-*
+
 
 ## Currently Studying
-* 📋 MVC
 * 🔥 Firebase
 
 
