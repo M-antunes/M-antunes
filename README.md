@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Marcelo
 
-### I have been teaching English for 10 years. When I turned thirty-three, I realized that I wanted to use my English skills as a tool and not as the main focus of my labor. Now I crave for an opportunity to learn, gather experience and develop myself in this amazing field of programming. A total career change.
+### I am a former English instructor that has found himself passionate about information technology. I am a mobile developer focused almost entirely on Flutter. Building structures and beautiful screens is very pleasant to me. Going to my second year of experience in the field, I have nothing but high expectations for 2022 and the opportunities that it'll bring.
 
 ## Skills
 * 📱  Flutter
