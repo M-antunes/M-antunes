@@ -6,8 +6,7 @@
 
 ## Skills developed
 * 📱  Dart & Flutter 
-* 🌐 .NET
-* 🔵 C#
+* :fire: Firebase
 * 💻 HTML, CSS, JS
 
 ## Skills in development
