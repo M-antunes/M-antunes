@@ -7,7 +7,7 @@
 ## Skills
 * 📱  Dart & Flutter :ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::white_square_button: 
 * :fire: Firebase :ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button:
-* 💻 HTML, CSS, JS :ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button: 
+* 💻 HTML, CSS, JS :ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button::white_square_button: 
 
 * Agile methodology :ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button:
 * SQL :ballot_box_with_check::white_square_button::white_square_button::white_square_button::white_square_button:
