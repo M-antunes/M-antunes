@@ -10,9 +10,9 @@
 * 💻 HTML, CSS, JS :ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button::white_square_button: 
 
 * Agile methodology :ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button:
-* SQL :ballot_box_with_check::white_square_button::white_square_button::white_square_button::white_square_button:
+* Clean Code and Architecture :ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button:
 * Unit tests :ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button::white_square_button: 
-* Clean Code and Architecture :ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::white_square_button::white_square_button::white_square_button: 
+* SQL :ballot_box_with_check::white_square_button::white_square_button::white_square_button::white_square_button:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/M-antunes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marcelo-antunes-92203a205//)  
